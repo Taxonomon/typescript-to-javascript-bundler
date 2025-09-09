@@ -6,8 +6,7 @@
     "bundle": "cd src && node bundle.ts"
   },
   "keywords": [],
-  "author": "https://github.com/hi5j8",
-  "license": "UNLICENSED",
+  "author": "https://github.com/Taxonomon",
   "type": "commonjs",
   "private": true,
   "allowImportingTsExtension": true,
