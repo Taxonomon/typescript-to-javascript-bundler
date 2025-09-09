@@ -22,20 +22,5 @@
     "typescript": "^5.9.2",
     "url": "^0.11.4"
   },
-  "dependencies": {
-    "yaml": "^2.8.1"
-  },
-  "eslintConfig": {},
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "eslintConfig": {}
 }
