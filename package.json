@@ -1,5 +1,5 @@
 {
-  "name": "fivem-typescript-resource-bundler",
+  "name": "typescript-to-javascript-bundler",
   "version": "1.0.0",
   "description": "Bundles TypeScript files into a single JavaScript file.",
   "scripts": {

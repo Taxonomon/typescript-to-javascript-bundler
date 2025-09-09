@@ -1,6 +1,6 @@
-# fivem-typescript-resource-bundler
+# TypeScript-to-JavaScript bundler
 
-Bundles FiveM TypeScript-based resources into JavaScript, based on [Jax Danger's ts-fivem-starterpack](https://github.com/Jax-Danger/ts-fivem-starterpack/blob/ts-react-fivem/fivem/build.js).
+Bundles TypeScript into a single JavaScript file, based on [Jax Danger's ts-fivem-starterpack](https://github.com/Jax-Danger/ts-fivem-starterpack/blob/ts-react-fivem/fivem/build.js).
 
 ## Usage
 
@@ -43,6 +43,6 @@ The script will then process all enabled config entries.
 
 ## License & Copyright
 
-The original script was taken from [Jax Danger's ts-fivem-starterpack](https://github.com/Jax-Danger/ts-fivem-starterpack/blob/ts-react-fivem/fivem/build.js) with slight adjustments that fit to my personal needs when developing FiveM resources. So all credit to him for the original.
+The original script was taken from [Jax Danger's ts-fivem-starterpack](https://github.com/Jax-Danger/ts-fivem-starterpack/blob/ts-react-fivem/fivem/build.js) with slight adjustments that fit to my personal needs. So all credit to him for the original.
 
 I do not own this script, nor do I have any saying about its licensing or copyright. Please refer to the original author's licensing and copyright information.
