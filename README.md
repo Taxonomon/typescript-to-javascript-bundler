@@ -10,7 +10,7 @@ At its core, this script takes all TypeScript code in a given directory and bund
 
 To configure the inputs and outputs, simply add the relative or absolute paths to the `src/config.json`:
 
-```json
+```jsonc
 [
   {
     "source": "../src/client", // takes all code in ../src/client
