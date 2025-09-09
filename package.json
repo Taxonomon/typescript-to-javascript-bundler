@@ -1,7 +1,7 @@
 {
-  "name": "fivem-hotlapping",
+  "name": "fivem-typescript-resource-bundler",
   "version": "1.0.0",
-  "description": "A FiveM Server resource for regular hotlapping.",
+  "description": "Bundles TypeScript files into a single JavaScript file.",
   "scripts": {
     "bundle": "cd src && node bundle.ts"
   },
